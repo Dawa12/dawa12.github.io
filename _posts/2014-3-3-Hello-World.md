@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello World!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I'm a Web Developer living in Queens, NY. I'm a recent bootcamp grad and have a background in advertising and marketing. 
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Hello World! I'm very excited to setup this blog. I've been meaning to use jekyll for a while to setup an easy to use blog. I'm currently job hunting for technical roles, and I'd like to use this forum to document my thoughts on web dev and share advice for others making a career transition into a technical role! Look out for future posts!
+
